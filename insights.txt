@@ -1,0 +1,7 @@
+Key Insight:
+
+LSTM models can learn temporal price patterns from stock data, but these patterns do not fully generalise across different stocks due to differences in volatility, scale, and underlying business fundamentals.
+
+Business Interpretation:
+
+Cross-stock prediction highlights the limitations of purely historical models and shows that reliable financial forecasting requires integrating external factors such as market conditions, sector trends, and company-specific events.
